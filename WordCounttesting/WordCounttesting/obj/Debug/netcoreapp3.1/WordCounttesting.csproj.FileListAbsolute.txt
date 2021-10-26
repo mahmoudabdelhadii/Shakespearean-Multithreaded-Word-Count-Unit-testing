@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\bin\Debug\netcoreapp3.1\WordCounttesting.exe
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\bin\Debug\netcoreapp3.1\WordCounttesting.deps.json
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\bin\Debug\netcoreapp3.1\WordCounttesting.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\bin\Debug\netcoreapp3.1\WordCounttesting.runtimeconfig.dev.json
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\bin\Debug\netcoreapp3.1\WordCounttesting.dll
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\bin\Debug\netcoreapp3.1\WordCounttesting.pdb
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.dll
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.pdb
+C:\Users\Mahmoud\Desktop\CPEN333\CPEN333-Lab3\WordCounttesting\WordCounttesting\obj\Debug\netcoreapp3.1\WordCounttesting.genruntimeconfig.cache
