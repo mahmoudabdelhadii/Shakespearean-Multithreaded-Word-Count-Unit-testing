@@ -7,7 +7,7 @@ namespace Lab3Q1
         public static int Main()
         {
 
-            List<Tuple<int,int, string>> LineList = new List<Tuple<int,int, string>>()
+            List<Tuple<int, int, string>> LineList = new List<Tuple<int, int, string>>()
             {
                 Tuple.Create(0,0,  "."),
                 Tuple.Create(0,0,  ""),
@@ -17,9 +17,10 @@ namespace Lab3Q1
                 Tuple.Create(16,7,  "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 "),
                 Tuple.Create(0,0,  " "),
                 Tuple.Create(0,0,  "                "),
+                Tuple.Create(3,0,  "  this           that    thus      "),
                 Tuple.Create(6, 0, "This sentence is 6 words long"),
-                Tuple.Create(42,0,  " This report outlines the status quo and future prospects regarding nuclear arms control by specifically discussing the New START  treaty between the US and Russia, the JCPOA  between Iran and the P5+1, the NPT, CTBT, and various other treaties between its signatories.")
-
+                Tuple.Create(42,0,  " This report outlines the status quo and future prospects regarding nuclear arms control by specifically discussing the New START  treaty between the US and Russia, the JCPOA  between Iran and the P5+1, the NPT, CTBT, and various other treaties between its signatories."),
+                Tuple.Create(80, 10,"< <> ! !@ this is a very very very very <> ! !@ very very very <> ! !@  very . very . very @ very % <> ! !@ very very very <> ! !@ very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very <> ! !@ very very very <> ! !@ very very  very very very very long sentence")
             };
             
           
