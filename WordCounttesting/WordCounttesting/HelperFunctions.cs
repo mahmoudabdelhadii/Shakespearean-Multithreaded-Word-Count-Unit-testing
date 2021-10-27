@@ -228,8 +228,12 @@ namespace Lab3Q1
           // Implement printing here
           for (int i = 0; i < sortedList.Count; i++)
           {
-                Console.WriteLine("{0}", sortedList[i].ToString());
-          }
+                
+                
+                
+                Console.WriteLine("CHARACTER: {0}    |    WORDS SPOKEN: {1}", sortedList[i].Item2.ToString(), sortedList[i].Item1.ToString());
+                Console.WriteLine("----------------------------------------------");
+            }
 
         }
     }
