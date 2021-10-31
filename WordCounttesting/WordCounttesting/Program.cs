@@ -51,9 +51,9 @@ namespace WordCounttesting
             string elapsedTime_single = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
                 ts_single.Hours, ts_single.Minutes, ts_single.Seconds,
                 ts_single.Milliseconds / 10);
-            Console.WriteLine("RunTime for Single Thread " + elapsedTime_single);
+            Console.WriteLine("                                                                     RunTime for Single Thread " + elapsedTime_single);
 
-            Console.WriteLine( "SingleThread is Done!");
+            Console.WriteLine( "                                                                    SingleThread is Done!");
             //=============================================================
             // YOUR IMPLEMENTATION HERE TO COUNT WORDS IN MULTIPLE THREADS
             //=============================================================
@@ -82,12 +82,12 @@ namespace WordCounttesting
             string elapsedTime_multi = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
                ts_multi.Hours, ts_multi.Minutes, ts_multi.Seconds,
                ts_multi.Milliseconds / 10);
-            Console.WriteLine("RunTime for MultiThreading" + elapsedTime_multi);
+            Console.WriteLine("                                                                           RunTime for MultiThreading" + elapsedTime_multi);
 
 
 
 
-            Console.WriteLine( "MultiThread is Done!");
+            Console.WriteLine( "                                                                          MultiThread is Done!");
            //return 0;
         }
     }
