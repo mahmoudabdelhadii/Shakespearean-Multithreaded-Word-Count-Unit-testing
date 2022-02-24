@@ -37,11 +37,6 @@ namespace Lab3Q1
                 {
 
 
-                    //=================================================
-                    // Implement your tests here. Check all the edge case scenarios.
-                    // Create a large list which iterates over WCTester
-                    //=================================================
-
                     WCTester(line, startIdx, expectedResults);
 
                 }
@@ -63,10 +58,6 @@ namespace Lab3Q1
          */
           static void WCTester(string line, int start_idx, int expected) {
 
-            //=================================================
-            // Implement: comparison between the expected and
-            // the actual word counter results
-            //=================================================
             int result;
             result =Lab3Q1.HelperFunctions.WordCount(ref line, start_idx);
             if (result != expected)

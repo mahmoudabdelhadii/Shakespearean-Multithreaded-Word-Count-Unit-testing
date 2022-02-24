@@ -67,9 +67,6 @@ namespace Lab3Q1
                                  Dictionary<string, int> wcounts)
         {
 
-            //===============================================
-            //  IMPLEMENT THIS METHOD INCLUDING THREAD SAFETY
-            //===============================================
 
              string line;  // for storing each line read from the file
              string character = "";  // empty character to start
@@ -80,9 +77,6 @@ namespace Lab3Q1
              while ((line = file.ReadLine()) != null)
              {
 
-                //=================================================
-                // YOUR JOB TO ADD WORD COUNT INFORMATION TO MAP
-                //=================================================
                 if (IsDialogueLine(line, ref character) > 0)
                 {
                     start_index = IsDialogueLine(line, ref character);

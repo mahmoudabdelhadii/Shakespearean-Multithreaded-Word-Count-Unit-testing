@@ -31,9 +31,6 @@ namespace WordCounttesting
                 "../../data/shakespeare_romeo_and_juliet.txt",
            };
 
-            //=============================================================
-            // YOUR IMPLEMENTATION HERE TO COUNT WORDS IN SINGLE THREAD
-            //=============================================================
 
             stopwatch_singlethread.Start();
             foreach (string i in filenames)
@@ -54,9 +51,7 @@ namespace WordCounttesting
             Console.WriteLine("                                                                     RunTime for Single Thread " + elapsedTime_single);
 
             Console.WriteLine( "                                                                    SingleThread is Done!");
-            //=============================================================
-            // YOUR IMPLEMENTATION HERE TO COUNT WORDS IN MULTIPLE THREADS
-            //=============================================================
+
             
             //int num_threads = 12;
             List<Thread> threads = new List<Thread>();
